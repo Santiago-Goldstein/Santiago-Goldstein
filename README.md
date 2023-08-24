@@ -17,6 +17,11 @@ Git, Github
 
 ✨Sisitema operativo✨: 
 Windows
+
+javascript HTML5 Seguir css3 Seguir
+Iniciar sesión Seguir MaterialUI Sass Seguir
+ReaccionarJs jQuery Nodo.js
+Pitón GSAP
 <!---
 Santiago-Goldstein/Santiago-Goldstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
