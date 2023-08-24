@@ -1,3 +1,5 @@
+👋 Hola, mi nombre es Santiago Goldstein
+
 Soy una persona dispuesta a aprender siempre y a escuchar críticas constructivas para mejorar día a día.
 Me gustan los desafíos y doy todo de mí para llegar al objetivo. 
 En mi tiempo libre me gusta practicar sobre lo que fui estudiando, eso hace que esté en constante aprendizaje.
