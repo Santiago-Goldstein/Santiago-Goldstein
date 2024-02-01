@@ -9,7 +9,7 @@ Por estos motivos, ingres√© a esta hermosa carrera en el mundo de la programaci√
 Python -
 Django -
 HTML/CSS -
-Cloud computing (AWS) -
+Cloud Computing (AWS) -
 Ciberseguridad -
 
 
