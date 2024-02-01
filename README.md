@@ -9,8 +9,9 @@ Por estos motivos, ingresé a esta hermosa carrera en el mundo de la programaci�
 Python
 Django
 HTML/CSS
-SQLite
-Bootstrap
+Cloud computing (AWS)
+Ciberseguridad
+
 
 ✨Controlador de Versiones✨:
 Git, Github
