@@ -6,11 +6,11 @@ En mi tiempo libre me gusta practicar sobre lo que fui estudiando, eso hace que 
 Por estos motivos, ingresé a esta hermosa carrera en el mundo de la programación, comprometido con el trabajo, compañerismo y amando lo que hago ❤️.
 
 ✨Habilidades Técnicas✨:
-Python.
-Django.
-HTML/CSS.
-Cloud computing (AWS).
-Ciberseguridad.
+Python -
+Django -
+HTML/CSS -
+Cloud computing (AWS) -
+Ciberseguridad -
 
 
 ✨Controlador de Versiones✨:
